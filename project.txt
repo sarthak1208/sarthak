@@ -1,1 +1,3 @@
 "file for weekend assignment"
+bug 1
+bug 2
